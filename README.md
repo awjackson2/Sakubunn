@@ -65,7 +65,6 @@ The generated content will be saved to `generated_sentences.txt` with:
 
 - Uses vocabulary from your Anki flashcards
 - Generates natural, grammatically correct content
-- Includes furigana for kanji
 - Provides romaji and English translations
 - References Genki textbook lessons
 - Saves all generated content for later review
