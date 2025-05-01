@@ -1,0 +1,2576 @@
+[
+    {
+        "kanji": "映画",
+        "reading": "えいが",
+        "meaning": "movie",
+        "particle": null
+    },
+    {
+        "kanji": "音楽",
+        "reading": "おんがく",
+        "meaning": "music",
+        "particle": null
+    },
+    {
+        "kanji": "雑誌",
+        "reading": "ざっし",
+        "meaning": "magazine",
+        "particle": null
+    },
+    {
+        "kanji": "お酒",
+        "reading": "おさけ",
+        "meaning": "sake; alcoholic drink",
+        "particle": null
+    },
+    {
+        "kanji": "お茶",
+        "reading": "おちゃ",
+        "meaning": "green tea",
+        "particle": null
+    },
+    {
+        "kanji": "水",
+        "reading": "みず",
+        "meaning": "water",
+        "particle": null
+    },
+    {
+        "kanji": "朝ご飯",
+        "reading": "あさごはん",
+        "meaning": "breakfast",
+        "particle": null
+    },
+    {
+        "kanji": "昼ご飯",
+        "reading": "ひるごはん",
+        "meaning": "lunch",
+        "particle": null
+    },
+    {
+        "kanji": "晩ご飯",
+        "reading": "ばんごはん",
+        "meaning": "dinner",
+        "particle": null
+    },
+    {
+        "kanji": "家",
+        "reading": "いえ",
+        "meaning": "home; house",
+        "particle": null
+    },
+    {
+        "kanji": "学校",
+        "reading": "がっこう",
+        "meaning": "school",
+        "particle": null
+    },
+    {
+        "kanji": "明日",
+        "reading": "あした",
+        "meaning": "tomorrow",
+        "particle": null
+    },
+    {
+        "kanji": "今日",
+        "reading": "きょう",
+        "meaning": "today",
+        "particle": null
+    },
+    {
+        "kanji": "朝",
+        "reading": "あさ",
+        "meaning": "morning",
+        "particle": null
+    },
+    {
+        "kanji": "今晩",
+        "reading": "こんばん",
+        "meaning": "tonight",
+        "particle": null
+    },
+    {
+        "kanji": "毎日",
+        "reading": "まいにち",
+        "meaning": "every day",
+        "particle": null
+    },
+    {
+        "kanji": "毎晩",
+        "reading": "まいばん",
+        "meaning": "every night",
+        "particle": null
+    },
+    {
+        "kanji": "週末",
+        "reading": "しゅうまつ",
+        "meaning": "weekend",
+        "particle": null
+    },
+    {
+        "kanji": "土曜日",
+        "reading": "どようび",
+        "meaning": "Saturday",
+        "particle": null
+    },
+    {
+        "kanji": "日曜日",
+        "reading": "にちようび",
+        "meaning": "Sunday",
+        "particle": null
+    },
+    {
+        "kanji": "行く",
+        "reading": "いく",
+        "meaning": "to go",
+        "particle": "destination に/へ"
+    },
+    {
+        "kanji": "帰る",
+        "reading": "かえる",
+        "meaning": "to go back; to return",
+        "particle": "destination に/へ"
+    },
+    {
+        "kanji": "聞く",
+        "reading": "きく",
+        "meaning": "to listen; to hear",
+        "particle": "～を"
+    },
+    {
+        "kanji": "飲む",
+        "reading": "のむ",
+        "meaning": "to drink",
+        "particle": "～を"
+    },
+    {
+        "kanji": "話す",
+        "reading": "はなす",
+        "meaning": "to speak; to talk",
+        "particle": "language を/で"
+    },
+    {
+        "kanji": "読む",
+        "reading": "よむ",
+        "meaning": "to read",
+        "particle": "～を"
+    },
+    {
+        "kanji": "一",
+        "reading": "いち",
+        "meaning": "one",
+        "particle": null
+    },
+    {
+        "kanji": "一時",
+        "reading": "いちじ",
+        "meaning": "one o'clock",
+        "particle": null
+    },
+    {
+        "kanji": "一年生",
+        "reading": "いちねんせい",
+        "meaning": "first-year student",
+        "particle": null
+    },
+    {
+        "kanji": "一分",
+        "reading": "いっぷん",
+        "meaning": "one minute",
+        "particle": null
+    },
+    {
+        "kanji": "一つ",
+        "reading": "ひとつ",
+        "meaning": "one (～つ)",
+        "particle": null
+    },
+    {
+        "kanji": "二",
+        "reading": "に",
+        "meaning": "two",
+        "particle": null
+    },
+    {
+        "kanji": "二時",
+        "reading": "にじ",
+        "meaning": "two o'clock",
+        "particle": null
+    },
+    {
+        "kanji": "二年生",
+        "reading": "にねんせい",
+        "meaning": "second-year student",
+        "particle": null
+    },
+    {
+        "kanji": "二つ",
+        "reading": "ふたつ",
+        "meaning": "two (～つ)",
+        "particle": null
+    },
+    {
+        "kanji": "二日間",
+        "reading": "ふつかかん",
+        "meaning": "two days",
+        "particle": null
+    },
+    {
+        "kanji": "三",
+        "reading": "さん",
+        "meaning": "three",
+        "particle": null
+    },
+    {
+        "kanji": "三時",
+        "reading": "さんじ",
+        "meaning": "three o'clock",
+        "particle": null
+    },
+    {
+        "kanji": "三年生",
+        "reading": "さんねんせい",
+        "meaning": "third-year student",
+        "particle": null
+    },
+    {
+        "kanji": "三月",
+        "reading": "さんがつ",
+        "meaning": "March",
+        "particle": null
+    },
+    {
+        "kanji": "三つ",
+        "reading": "みっつ",
+        "meaning": "three (～つ)",
+        "particle": null
+    },
+    {
+        "kanji": "起きる",
+        "reading": "おきる",
+        "meaning": "to get up",
+        "particle": null
+    },
+    {
+        "kanji": "食べる",
+        "reading": "たべる",
+        "meaning": "to eat",
+        "particle": "～を"
+    },
+    {
+        "kanji": "寝る",
+        "reading": "ねる",
+        "meaning": "to sleep; to go to sleep",
+        "particle": null
+    },
+    {
+        "kanji": "見る",
+        "reading": "みる",
+        "meaning": "to see; to look at; to watch",
+        "particle": "～を"
+    },
+    {
+        "kanji": "来る",
+        "reading": "くる",
+        "meaning": "to come",
+        "particle": "destination に/へ"
+    },
+    {
+        "kanji": "勉強する",
+        "reading": "べんきょうする",
+        "meaning": "to study",
+        "particle": "～を"
+    },
+    {
+        "kanji": "四",
+        "reading": "よん",
+        "meaning": "four",
+        "particle": null
+    },
+    {
+        "kanji": "四時",
+        "reading": "よじ",
+        "meaning": "four o'clock",
+        "particle": null
+    },
+    {
+        "kanji": "四年生",
+        "reading": "よねんせい",
+        "meaning": "fourth-year student",
+        "particle": null
+    },
+    {
+        "kanji": "四月",
+        "reading": "しがつ",
+        "meaning": "April",
+        "particle": null
+    },
+    {
+        "kanji": "四つ",
+        "reading": "よっつ",
+        "meaning": "four (～つ)",
+        "particle": null
+    },
+    {
+        "kanji": "五",
+        "reading": "ご",
+        "meaning": "five",
+        "particle": null
+    },
+    {
+        "kanji": "五時",
+        "reading": "ごじ",
+        "meaning": "five o'clock",
+        "particle": null
+    },
+    {
+        "kanji": "五月",
+        "reading": "ごがつ",
+        "meaning": "May",
+        "particle": null
+    },
+    {
+        "kanji": "五歳",
+        "reading": "ごさい",
+        "meaning": "five years old",
+        "particle": null
+    },
+    {
+        "kanji": "五つ",
+        "reading": "いつつ",
+        "meaning": "five (～つ)",
+        "particle": null
+    },
+    {
+        "kanji": "六",
+        "reading": "ろく",
+        "meaning": "six",
+        "particle": null
+    },
+    {
+        "kanji": "六時",
+        "reading": "ろくじ",
+        "meaning": "six o'clock",
+        "particle": null
+    },
+    {
+        "kanji": "六百",
+        "reading": "ろっぴゃく",
+        "meaning": "six hundred",
+        "particle": null
+    },
+    {
+        "kanji": "六分",
+        "reading": "ろっぷん",
+        "meaning": "six minutes",
+        "particle": null
+    },
+    {
+        "kanji": "六つ",
+        "reading": "むっつ",
+        "meaning": "six (～つ)",
+        "particle": null
+    },
+    {
+        "kanji": "全然",
+        "reading": "ぜんぜん",
+        "meaning": "not at all",
+        "particle": null
+    },
+    {
+        "kanji": "九時",
+        "reading": "くじ",
+        "meaning": "nine o'clock",
+        "particle": null
+    },
+    {
+        "kanji": "九歳",
+        "reading": "きゅうさい",
+        "meaning": "nine years old",
+        "particle": null
+    },
+    {
+        "kanji": "九つ",
+        "reading": "ここのつ",
+        "meaning": "nine (～つ)",
+        "particle": null
+    },
+    {
+        "kanji": "早い",
+        "reading": "はやい",
+        "meaning": "early",
+        "particle": null
+    },
+    {
+        "kanji": "十",
+        "reading": "じゅう／とお",
+        "meaning": "ten",
+        "particle": null
+    },
+    {
+        "kanji": "十歳",
+        "reading": "じゅっさい／じっさい",
+        "meaning": "ten years old",
+        "particle": null
+    },
+    {
+        "kanji": "三千",
+        "reading": "さんぜん",
+        "meaning": "three thousand",
+        "particle": null
+    },
+    {
+        "kanji": "八千",
+        "reading": "はっせん",
+        "meaning": "eight thousand",
+        "particle": null
+    },
+    {
+        "kanji": "一万",
+        "reading": "いちまん",
+        "meaning": "ten thousand",
+        "particle": null
+    },
+    {
+        "kanji": "百円",
+        "reading": "ひゃくえん",
+        "meaning": "one hundred yen",
+        "particle": null
+    },
+    {
+        "kanji": "円高",
+        "reading": "えんだか",
+        "meaning": "strong yen",
+        "particle": null
+    },
+    {
+        "kanji": "円い",
+        "reading": "まるい",
+        "meaning": "round",
+        "particle": null
+    },
+    {
+        "kanji": "時計",
+        "reading": "とけい",
+        "meaning": "watch",
+        "particle": null
+    },
+    {
+        "kanji": "犬",
+        "reading": "いぬ",
+        "meaning": "dog",
+        "particle": null
+    },
+    {
+        "kanji": "猫",
+        "reading": "ねこ",
+        "meaning": "cat",
+        "particle": null
+    },
+    {
+        "kanji": "子供",
+        "reading": "こども",
+        "meaning": "child",
+        "particle": null
+    },
+    {
+        "kanji": "机",
+        "reading": "つくえ",
+        "meaning": "desk",
+        "particle": null
+    },
+    {
+        "kanji": "写真",
+        "reading": "しゃしん",
+        "meaning": "picture; photograph",
+        "particle": null
+    },
+    {
+        "kanji": "花",
+        "reading": "はな",
+        "meaning": "flower",
+        "particle": null
+    },
+    {
+        "kanji": "ご飯",
+        "reading": "ごはん",
+        "meaning": "rice; meal",
+        "particle": null
+    },
+    {
+        "kanji": "お寺",
+        "reading": "おてら",
+        "meaning": "temple",
+        "particle": null
+    },
+    {
+        "kanji": "公園",
+        "reading": "こうえん",
+        "meaning": "park",
+        "particle": null
+    },
+    {
+        "kanji": "バス停",
+        "reading": "バスてい",
+        "meaning": "bus stop",
+        "particle": null
+    },
+    {
+        "kanji": "病院",
+        "reading": "びょういん",
+        "meaning": "hospital",
+        "particle": null
+    },
+    {
+        "kanji": "本屋",
+        "reading": "ほんや",
+        "meaning": "bookstore",
+        "particle": null
+    },
+    {
+        "kanji": "昨日",
+        "reading": "きのう",
+        "meaning": "yesterday",
+        "particle": null
+    },
+    {
+        "kanji": "～時間",
+        "reading": "～じかん",
+        "meaning": "...hours",
+        "particle": null
+    },
+    {
+        "kanji": "一時間",
+        "reading": "いちじかん",
+        "meaning": "one hour",
+        "particle": null
+    },
+    {
+        "kanji": "先週",
+        "reading": "せんしゅう",
+        "meaning": "last week",
+        "particle": null
+    },
+    {
+        "kanji": "時",
+        "reading": "とき",
+        "meaning": "when...; at the time of... (～の)",
+        "particle": null
+    },
+    {
+        "kanji": "月曜日",
+        "reading": "げつようび",
+        "meaning": "Monday",
+        "particle": null
+    },
+    {
+        "kanji": "火曜日",
+        "reading": "かようび",
+        "meaning": "Tuesday",
+        "particle": null
+    },
+    {
+        "kanji": "水曜日",
+        "reading": "すいようび",
+        "meaning": "Wednesday",
+        "particle": null
+    },
+    {
+        "kanji": "書く",
+        "reading": "かく",
+        "meaning": "to write",
+        "particle": "person に thing を"
+    },
+    {
+        "kanji": "撮る",
+        "reading": "とる",
+        "meaning": "to take (a picture)",
+        "particle": "～を"
+    },
+    {
+        "kanji": "待つ",
+        "reading": "まつ",
+        "meaning": "to wait",
+        "particle": "～を"
+    },
+    {
+        "kanji": "日本",
+        "reading": "にほん",
+        "meaning": "Japan",
+        "particle": null
+    },
+    {
+        "kanji": "日曜日",
+        "reading": "にちようび",
+        "meaning": "Sunday",
+        "particle": null
+    },
+    {
+        "kanji": "毎日",
+        "reading": "まいにち",
+        "meaning": "every day",
+        "particle": null
+    },
+    {
+        "kanji": "母の日",
+        "reading": "ははのひ",
+        "meaning": "Mother's day",
+        "particle": null
+    },
+    {
+        "kanji": "日記",
+        "reading": "にっき",
+        "meaning": "diary",
+        "particle": null
+    },
+    {
+        "kanji": "三日",
+        "reading": "みっか",
+        "meaning": "three days",
+        "particle": null
+    },
+    {
+        "kanji": "本",
+        "reading": "ほん",
+        "meaning": "book",
+        "particle": null
+    },
+    {
+        "kanji": "日本語",
+        "reading": "にほんご",
+        "meaning": "Japanese language",
+        "particle": null
+    },
+    {
+        "kanji": "一人で",
+        "reading": "ひとりで",
+        "meaning": "alone",
+        "particle": null
+    },
+    {
+        "kanji": "月曜日",
+        "reading": "げつようび",
+        "meaning": "Monday",
+        "particle": null
+    },
+    {
+        "kanji": "月",
+        "reading": "つき",
+        "meaning": "moon",
+        "particle": null
+    },
+    {
+        "kanji": "今月",
+        "reading": "こんげつ",
+        "meaning": "this month",
+        "particle": null
+    },
+    {
+        "kanji": "一か月",
+        "reading": "いっかげつ",
+        "meaning": "one month",
+        "particle": null
+    },
+    {
+        "kanji": "火曜日",
+        "reading": "かようび",
+        "meaning": "Tuesday",
+        "particle": null
+    },
+    {
+        "kanji": "火",
+        "reading": "ひ",
+        "meaning": "fire",
+        "particle": null
+    },
+    {
+        "kanji": "火山",
+        "reading": "かざん",
+        "meaning": "volcano",
+        "particle": null
+    },
+    {
+        "kanji": "花火",
+        "reading": "はなび",
+        "meaning": "fireworks",
+        "particle": null
+    },
+    {
+        "kanji": "火星",
+        "reading": "かせい",
+        "meaning": "Mars",
+        "particle": null
+    },
+    {
+        "kanji": "右",
+        "reading": "みぎ",
+        "meaning": "right",
+        "particle": "～の"
+    },
+    {
+        "kanji": "左",
+        "reading": "ひだり",
+        "meaning": "left",
+        "particle": "～の"
+    },
+    {
+        "kanji": "前",
+        "reading": "まえ",
+        "meaning": "front",
+        "particle": "～の"
+    },
+    {
+        "kanji": "後ろ",
+        "reading": "うしろ",
+        "meaning": "back",
+        "particle": "～の"
+    },
+    {
+        "kanji": "中",
+        "reading": "なか",
+        "meaning": "inside",
+        "particle": "～の"
+    },
+    {
+        "kanji": "上",
+        "reading": "うえ",
+        "meaning": "on",
+        "particle": "～の"
+    },
+    {
+        "kanji": "下",
+        "reading": "した",
+        "meaning": "under",
+        "particle": "～の"
+    },
+    {
+        "kanji": "近く",
+        "reading": "ちかく",
+        "meaning": "near; nearby",
+        "particle": "～の"
+    },
+    {
+        "kanji": "隣",
+        "reading": "となり",
+        "meaning": "next",
+        "particle": "～の"
+    },
+    {
+        "kanji": "間",
+        "reading": "あいだ",
+        "meaning": "between",
+        "particle": "A と B の"
+    },
+    {
+        "kanji": "水曜日",
+        "reading": "すいようび",
+        "meaning": "Wednesday",
+        "particle": null
+    },
+    {
+        "kanji": "水",
+        "reading": "みず",
+        "meaning": "water",
+        "particle": null
+    },
+    {
+        "kanji": "水泳",
+        "reading": "すいえい",
+        "meaning": "swimming",
+        "particle": null
+    },
+    {
+        "kanji": "水道",
+        "reading": "すいどう",
+        "meaning": "water supply",
+        "particle": null
+    },
+    {
+        "kanji": "水着",
+        "reading": "みずぎ",
+        "meaning": "bathing suit",
+        "particle": null
+    },
+    {
+        "kanji": "木",
+        "reading": "き",
+        "meaning": "tree",
+        "particle": null
+    },
+    {
+        "kanji": "木村さん",
+        "reading": "きむらさん",
+        "meaning": "Mr./Ms. Kimura",
+        "particle": null
+    },
+    {
+        "kanji": "金曜日",
+        "reading": "きんようび",
+        "meaning": "Friday",
+        "particle": null
+    },
+    {
+        "kanji": "お金",
+        "reading": "おかね",
+        "meaning": "money",
+        "particle": null
+    },
+    {
+        "kanji": "料金",
+        "reading": "りょうきん",
+        "meaning": "charge",
+        "particle": null
+    },
+    {
+        "kanji": "お金持ち",
+        "reading": "おかねもち",
+        "meaning": "rich person",
+        "particle": null
+    },
+    {
+        "kanji": "土曜日",
+        "reading": "どようび",
+        "meaning": "Saturday",
+        "particle": null
+    },
+    {
+        "kanji": "土",
+        "reading": "つち",
+        "meaning": "soil",
+        "particle": null
+    },
+    {
+        "kanji": "土地",
+        "reading": "とち",
+        "meaning": "land",
+        "particle": null
+    },
+    {
+        "kanji": "粘土",
+        "reading": "ねんど",
+        "meaning": "clay",
+        "particle": null
+    },
+    {
+        "kanji": "日曜日",
+        "reading": "にちようび",
+        "meaning": "Sunday",
+        "particle": null
+    },
+    {
+        "kanji": "曜日",
+        "reading": "ようび",
+        "meaning": "day of the week",
+        "particle": null
+    },
+    {
+        "kanji": "上",
+        "reading": "うえ",
+        "meaning": "top; above",
+        "particle": null
+    },
+    {
+        "kanji": "上手な",
+        "reading": "じょうずな",
+        "meaning": "good at",
+        "particle": null
+    },
+    {
+        "kanji": "屋上",
+        "reading": "おくじょう",
+        "meaning": "rooftop",
+        "particle": null
+    },
+    {
+        "kanji": "上る",
+        "reading": "のぼる",
+        "meaning": "to go up",
+        "particle": null
+    },
+    {
+        "kanji": "下",
+        "reading": "した",
+        "meaning": "under",
+        "particle": null
+    },
+    {
+        "kanji": "地下鉄",
+        "reading": "ちかてつ",
+        "meaning": "subway",
+        "particle": null
+    },
+    {
+        "kanji": "下手な",
+        "reading": "へたな",
+        "meaning": "poor at",
+        "particle": null
+    },
+    {
+        "kanji": "下さい",
+        "reading": "ください",
+        "meaning": "Please give/do...",
+        "particle": null
+    },
+    {
+        "kanji": "中",
+        "reading": "なか",
+        "meaning": "inside",
+        "particle": null
+    },
+    {
+        "kanji": "中国",
+        "reading": "ちゅうごく",
+        "meaning": "China",
+        "particle": null
+    },
+    {
+        "kanji": "中学",
+        "reading": "ちゅうがく",
+        "meaning": "junior high school",
+        "particle": null
+    },
+    {
+        "kanji": "一年中",
+        "reading": "いちねんじゅう",
+        "meaning": "all year round",
+        "particle": null
+    },
+    {
+        "kanji": "三時半",
+        "reading": "さんじはん",
+        "meaning": "half past three",
+        "particle": null
+    },
+    {
+        "kanji": "半分",
+        "reading": "はんぶん",
+        "meaning": "half",
+        "particle": null
+    },
+    {
+        "kanji": "半年",
+        "reading": "はんとし",
+        "meaning": "half a year",
+        "particle": null
+    },
+    {
+        "kanji": "半額",
+        "reading": "はんがく",
+        "meaning": "half price",
+        "particle": null
+    },
+    {
+        "kanji": "一月",
+        "reading": "いちがつ",
+        "meaning": "January",
+        "particle": null
+    },
+    {
+        "kanji": "二月",
+        "reading": "にがつ",
+        "meaning": "February",
+        "particle": null
+    },
+    {
+        "kanji": "三月",
+        "reading": "さんがつ",
+        "meaning": "March",
+        "particle": null
+    },
+    {
+        "kanji": "四月",
+        "reading": "しがつ",
+        "meaning": "April",
+        "particle": null
+    },
+    {
+        "kanji": "五月",
+        "reading": "ごがつ",
+        "meaning": "May",
+        "particle": null
+    },
+    {
+        "kanji": "六月",
+        "reading": "ろくがつ",
+        "meaning": "June",
+        "particle": null
+    },
+    {
+        "kanji": "七月",
+        "reading": "しちがつ",
+        "meaning": "July",
+        "particle": null
+    },
+    {
+        "kanji": "八月",
+        "reading": "はちがつ",
+        "meaning": "August",
+        "particle": null
+    },
+    {
+        "kanji": "九月",
+        "reading": "くがつ",
+        "meaning": "September",
+        "particle": null
+    },
+    {
+        "kanji": "十月",
+        "reading": "じゅうがつ",
+        "meaning": "October",
+        "particle": null
+    },
+    {
+        "kanji": "十一月",
+        "reading": "じゅういちがつ",
+        "meaning": "November",
+        "particle": null
+    },
+    {
+        "kanji": "十二月",
+        "reading": "じゅうにがつ",
+        "meaning": "December",
+        "particle": null
+    },
+    {
+        "kanji": "昨日",
+        "reading": "きのう",
+        "meaning": "yesterday",
+        "particle": null
+    },
+    {
+        "kanji": "今日",
+        "reading": "きょう",
+        "meaning": "today",
+        "particle": null
+    },
+    {
+        "kanji": "明日",
+        "reading": "あした",
+        "meaning": "tomorrow",
+        "particle": null
+    },
+    {
+        "kanji": "二週間前",
+        "reading": "にしゅうかんまえ",
+        "meaning": "two weeks ago",
+        "particle": null
+    },
+    {
+        "kanji": "先週",
+        "reading": "せんしゅう",
+        "meaning": "last week",
+        "particle": null
+    },
+    {
+        "kanji": "今週",
+        "reading": "こんしゅう",
+        "meaning": "this week",
+        "particle": null
+    },
+    {
+        "kanji": "来週",
+        "reading": "らいしゅう",
+        "meaning": "next week",
+        "particle": null
+    },
+    {
+        "kanji": "再来週",
+        "reading": "さらいしゅう",
+        "meaning": "the week after next",
+        "particle": null
+    },
+    {
+        "kanji": "二か月前",
+        "reading": "にかげつまえ",
+        "meaning": "two months ago",
+        "particle": null
+    },
+    {
+        "kanji": "先月",
+        "reading": "せんげつ",
+        "meaning": "last month",
+        "particle": null
+    },
+    {
+        "kanji": "今月",
+        "reading": "こんげつ",
+        "meaning": "this month",
+        "particle": null
+    },
+    {
+        "kanji": "来月",
+        "reading": "らいげつ",
+        "meaning": "next month",
+        "particle": null
+    },
+    {
+        "kanji": "再来月",
+        "reading": "さらいげつ",
+        "meaning": "the month after next",
+        "particle": null
+    },
+    {
+        "kanji": "去年",
+        "reading": "きょねん",
+        "meaning": "last year",
+        "particle": null
+    },
+    {
+        "kanji": "今年",
+        "reading": "ことし",
+        "meaning": "this year",
+        "particle": null
+    },
+    {
+        "kanji": "来年",
+        "reading": "らいねん",
+        "meaning": "next year",
+        "particle": null
+    },
+    {
+        "kanji": "再来年",
+        "reading": "さらいねん",
+        "meaning": "the year after next",
+        "particle": null
+    },
+    {
+        "kanji": "食べ物",
+        "reading": "たべもの",
+        "meaning": "food",
+        "particle": null
+    },
+    {
+        "kanji": "飲み物",
+        "reading": "のみもの",
+        "meaning": "drink",
+        "particle": null
+    },
+    {
+        "kanji": "果物",
+        "reading": "くだもの",
+        "meaning": "fruit",
+        "particle": null
+    },
+    {
+        "kanji": "休み",
+        "reading": "やすみ",
+        "meaning": "holiday; day off; absence",
+        "particle": null
+    },
+    {
+        "kanji": "旅行",
+        "reading": "りょこう",
+        "meaning": "travel",
+        "particle": null
+    },
+    {
+        "kanji": "海",
+        "reading": "うみ",
+        "meaning": "sea",
+        "particle": null
+    },
+    {
+        "kanji": "お土産",
+        "reading": "おみやげ",
+        "meaning": "souvenir",
+        "particle": null
+    },
+    {
+        "kanji": "天気",
+        "reading": "てんき",
+        "meaning": "weather",
+        "particle": null
+    },
+    {
+        "kanji": "宿題",
+        "reading": "しゅくだい",
+        "meaning": "homework",
+        "particle": null
+    },
+    {
+        "kanji": "誕生日",
+        "reading": "たんじょうび",
+        "meaning": "birthday",
+        "particle": null
+    },
+    {
+        "kanji": "部屋",
+        "reading": "へや",
+        "meaning": "room",
+        "particle": null
+    },
+    {
+        "kanji": "僕",
+        "reading": "ぼく",
+        "meaning": "I (used by men)",
+        "particle": null
+    },
+    {
+        "kanji": "Lサイズ",
+        "reading": "エルサイズ",
+        "meaning": "size L; large size",
+        "particle": null
+    },
+    {
+        "kanji": "新しい",
+        "reading": "あたらしい",
+        "meaning": "new",
+        "particle": null
+    },
+    {
+        "kanji": "古い",
+        "reading": "ふるい",
+        "meaning": "old (thing)",
+        "particle": null
+    },
+    {
+        "kanji": "暑い",
+        "reading": "あつい",
+        "meaning": "hot (weather)",
+        "particle": null
+    },
+    {
+        "kanji": "寒い",
+        "reading": "さむい",
+        "meaning": "cold (weather)",
+        "particle": null
+    },
+    {
+        "kanji": "熱い",
+        "reading": "あつい",
+        "meaning": "hot (thing)",
+        "particle": null
+    },
+    {
+        "kanji": "忙しい",
+        "reading": "いそがしい",
+        "meaning": "busy (people/days)",
+        "particle": null
+    },
+    {
+        "kanji": "大きい",
+        "reading": "おおきい",
+        "meaning": "large",
+        "particle": null
+    },
+    {
+        "kanji": "小さい",
+        "reading": "ちいさい",
+        "meaning": "small",
+        "particle": null
+    },
+    {
+        "kanji": "面白い",
+        "reading": "おもしろい",
+        "meaning": "interesting; funny",
+        "particle": null
+    },
+    {
+        "kanji": "難しい",
+        "reading": "むずかしい",
+        "meaning": "difficult",
+        "particle": null
+    },
+    {
+        "kanji": "怖い",
+        "reading": "こわい",
+        "meaning": "frightening",
+        "particle": null
+    },
+    {
+        "kanji": "楽しい",
+        "reading": "たのしい",
+        "meaning": "fun",
+        "particle": null
+    },
+    {
+        "kanji": "安い",
+        "reading": "やすい",
+        "meaning": "inexpensive; cheap (thing)",
+        "particle": null
+    },
+    {
+        "kanji": "好き",
+        "reading": "すき（な）",
+        "meaning": "fond of; to like",
+        "particle": "～が"
+    },
+    {
+        "kanji": "嫌い",
+        "reading": "きらい（な）",
+        "meaning": "disgusted with; to dislike",
+        "particle": "～が"
+    },
+    {
+        "kanji": "大好き",
+        "reading": "だいすき（な）",
+        "meaning": "very fond of; to love",
+        "particle": "～が"
+    },
+    {
+        "kanji": "大嫌い",
+        "reading": "だいきらい（な）",
+        "meaning": "to hate",
+        "particle": "～が"
+    },
+    {
+        "kanji": "元気",
+        "reading": "げんき（な）",
+        "meaning": "healthy; energetic",
+        "particle": null
+    },
+    {
+        "kanji": "静か",
+        "reading": "しずか（な）",
+        "meaning": "quiet",
+        "particle": null
+    },
+    {
+        "kanji": "暇",
+        "reading": "ひま（な）",
+        "meaning": "not busy; free (time)",
+        "particle": null
+    },
+    {
+        "kanji": "泳ぐ",
+        "reading": "およぐ",
+        "meaning": "to swim",
+        "particle": null
+    },
+    {
+        "kanji": "聞く",
+        "reading": "きく",
+        "meaning": "to ask",
+        "particle": "person に"
+    },
+    {
+        "kanji": "乗る",
+        "reading": "のる",
+        "meaning": "to ride; to board",
+        "particle": "～に"
+    },
+    {
+        "kanji": "出かける",
+        "reading": "でかける",
+        "meaning": "to go out",
+        "particle": null
+    },
+    {
+        "kanji": "山",
+        "reading": "やま",
+        "meaning": "mountain",
+        "particle": null
+    },
+    {
+        "kanji": "山川さん",
+        "reading": "やまかわさん",
+        "meaning": "Mr./Ms. Yamakawa",
+        "particle": null
+    },
+    {
+        "kanji": "富士山",
+        "reading": "ふじさん",
+        "meaning": "Mt. Fuji",
+        "particle": null
+    },
+    {
+        "kanji": "川",
+        "reading": "かわ",
+        "meaning": "river",
+        "particle": null
+    },
+    {
+        "kanji": "小川さん",
+        "reading": "おがわさん",
+        "meaning": "Mr./Ms. Ogawa",
+        "particle": null
+    },
+    {
+        "kanji": "元気な",
+        "reading": "げんきな",
+        "meaning": "fine",
+        "particle": null
+    },
+    {
+        "kanji": "元日",
+        "reading": "がんじつ",
+        "meaning": "the first day of the year",
+        "particle": null
+    },
+    {
+        "kanji": "地元",
+        "reading": "じもと",
+        "meaning": "local",
+        "particle": null
+    },
+    {
+        "kanji": "一緒に",
+        "reading": "いっしょに",
+        "meaning": "together",
+        "particle": null
+    },
+    {
+        "kanji": "大丈夫",
+        "reading": "だいじょうぶ",
+        "meaning": "It's okay.; Not to worry.; Everything is under control.",
+        "particle": null
+    },
+    {
+        "kanji": "～枚",
+        "reading": "～まい",
+        "meaning": "[counter for flat objects]",
+        "particle": null
+    },
+    {
+        "kanji": "元気な",
+        "reading": "げんきな",
+        "meaning": "fine",
+        "particle": null
+    },
+    {
+        "kanji": "天気",
+        "reading": "てんき",
+        "meaning": "weather",
+        "particle": null
+    },
+    {
+        "kanji": "電気",
+        "reading": "でんき",
+        "meaning": "electricity",
+        "particle": null
+    },
+    {
+        "kanji": "気持ち",
+        "reading": "きもち",
+        "meaning": "feeling",
+        "particle": null
+    },
+    {
+        "kanji": "人気",
+        "reading": "にんき",
+        "meaning": "popularity",
+        "particle": null
+    },
+    {
+        "kanji": "天国",
+        "reading": "てんごく",
+        "meaning": "heaven",
+        "particle": null
+    },
+    {
+        "kanji": "天皇",
+        "reading": "てんのう",
+        "meaning": "Japanese emperor",
+        "particle": null
+    },
+    {
+        "kanji": "天才",
+        "reading": "てんさい",
+        "meaning": "genius",
+        "particle": null
+    },
+    {
+        "kanji": "私",
+        "reading": "わたし",
+        "meaning": "I",
+        "particle": null
+    },
+    {
+        "kanji": "私立大学",
+        "reading": "しりつだいがく",
+        "meaning": "private university",
+        "particle": null
+    },
+    {
+        "kanji": "今",
+        "reading": "いま",
+        "meaning": "now",
+        "particle": null
+    },
+    {
+        "kanji": "今日",
+        "reading": "きょう",
+        "meaning": "today",
+        "particle": null
+    },
+    {
+        "kanji": "今晩",
+        "reading": "こんばん",
+        "meaning": "tonight",
+        "particle": null
+    },
+    {
+        "kanji": "今月",
+        "reading": "こんげつ",
+        "meaning": "this month",
+        "particle": null
+    },
+    {
+        "kanji": "今年",
+        "reading": "ことし",
+        "meaning": "this year",
+        "particle": null
+    },
+    {
+        "kanji": "田中さん",
+        "reading": "たなかさん",
+        "meaning": "Mr./Ms. Tanaka",
+        "particle": null
+    },
+    {
+        "kanji": "山田さん",
+        "reading": "やまださん",
+        "meaning": "Mr./Ms. Yamada",
+        "particle": null
+    },
+    {
+        "kanji": "田んぼ",
+        "reading": "たんぼ",
+        "meaning": "rice field",
+        "particle": null
+    },
+    {
+        "kanji": "女の人",
+        "reading": "おんなのひと",
+        "meaning": "woman (kun-yomi)",
+        "particle": null
+    },
+    {
+        "kanji": "女性",
+        "reading": "じょせい",
+        "meaning": "woman (on-yomi)",
+        "particle": null
+    },
+    {
+        "kanji": "女の子",
+        "reading": "おんなのこ",
+        "meaning": "girl",
+        "particle": null
+    },
+    {
+        "kanji": "長女",
+        "reading": "ちょうじょ",
+        "meaning": "the eldest daughter",
+        "particle": null
+    },
+    {
+        "kanji": "男の人",
+        "reading": "おとこのひと",
+        "meaning": "man (kun-yomi)",
+        "particle": null
+    },
+    {
+        "kanji": "男性",
+        "reading": "だんせい",
+        "meaning": "man (on-yomi)",
+        "particle": null
+    },
+    {
+        "kanji": "男の子",
+        "reading": "おとこのこ",
+        "meaning": "boy",
+        "particle": null
+    },
+    {
+        "kanji": "男子学生",
+        "reading": "だんしがくせい",
+        "meaning": "male student",
+        "particle": null
+    },
+    {
+        "kanji": "見る",
+        "reading": "みる",
+        "meaning": "to see",
+        "particle": null
+    },
+    {
+        "kanji": "見物",
+        "reading": "けんぶつ",
+        "meaning": "sightseeing",
+        "particle": null
+    },
+    {
+        "kanji": "花見",
+        "reading": "はなみ",
+        "meaning": "flower viewing",
+        "particle": null
+    },
+    {
+        "kanji": "意見",
+        "reading": "いけん",
+        "meaning": "opinion",
+        "particle": null
+    },
+    {
+        "kanji": "行く",
+        "reading": "いく",
+        "meaning": "to go",
+        "particle": null
+    },
+    {
+        "kanji": "銀行",
+        "reading": "ぎんこう",
+        "meaning": "bank",
+        "particle": null
+    },
+    {
+        "kanji": "一行目",
+        "reading": "いちぎょうめ",
+        "meaning": "first line",
+        "particle": null
+    },
+    {
+        "kanji": "旅行",
+        "reading": "りょこう",
+        "meaning": "travel",
+        "particle": null
+    },
+    {
+        "kanji": "食べる",
+        "reading": "たべる",
+        "meaning": "to eat",
+        "particle": null
+    },
+    {
+        "kanji": "食べ物",
+        "reading": "たべもの",
+        "meaning": "food",
+        "particle": null
+    },
+    {
+        "kanji": "食堂",
+        "reading": "しょくどう",
+        "meaning": "cafeteria",
+        "particle": null
+    },
+    {
+        "kanji": "食事",
+        "reading": "しょくじ",
+        "meaning": "meal",
+        "particle": null
+    },
+    {
+        "kanji": "朝食",
+        "reading": "ちょうしょく",
+        "meaning": "breakfast",
+        "particle": null
+    },
+    {
+        "kanji": "飲む",
+        "reading": "のむ",
+        "meaning": "to drink",
+        "particle": null
+    },
+    {
+        "kanji": "飲み物",
+        "reading": "のみもの",
+        "meaning": "drink",
+        "particle": null
+    },
+    {
+        "kanji": "飲酒運転",
+        "reading": "いんしゅうんてん",
+        "meaning": "drunken driving",
+        "particle": null
+    },
+    {
+        "kanji": "漢字",
+        "reading": "かんじ",
+        "meaning": "kanji; Chinese character",
+        "particle": null
+    },
+    {
+        "kanji": "教科書",
+        "reading": "きょうかしょ",
+        "meaning": "textbook",
+        "particle": null
+    },
+    {
+        "kanji": "次",
+        "reading": "つぎ",
+        "meaning": "next",
+        "particle": null
+    },
+    {
+        "kanji": "お金",
+        "reading": "おかね",
+        "meaning": "money",
+        "particle": null
+    },
+    {
+        "kanji": "荷物",
+        "reading": "にもつ",
+        "meaning": "baggage",
+        "particle": null
+    },
+    {
+        "kanji": "電気",
+        "reading": "でんき",
+        "meaning": "electricity; light",
+        "particle": null
+    },
+    {
+        "kanji": "窓",
+        "reading": "まど",
+        "meaning": "window",
+        "particle": null
+    },
+    {
+        "kanji": "電車",
+        "reading": "でんしゃ",
+        "meaning": "train",
+        "particle": null
+    },
+    {
+        "kanji": "国",
+        "reading": "くに",
+        "meaning": "country; place of origin",
+        "particle": null
+    },
+    {
+        "kanji": "今週",
+        "reading": "こんしゅう",
+        "meaning": "this week",
+        "particle": null
+    },
+    {
+        "kanji": "来週",
+        "reading": "らいしゅう",
+        "meaning": "next week",
+        "particle": null
+    },
+    {
+        "kanji": "来年",
+        "reading": "らいねん",
+        "meaning": "next year",
+        "particle": null
+    },
+    {
+        "kanji": "夜",
+        "reading": "よる",
+        "meaning": "night",
+        "particle": null
+    },
+    {
+        "kanji": "大変",
+        "reading": "たいへん（な）",
+        "meaning": "tough (situation)",
+        "particle": null
+    },
+    {
+        "kanji": "遊ぶ",
+        "reading": "あそぶ",
+        "meaning": "to play; to spend time pleasantly",
+        "particle": null
+    },
+    {
+        "kanji": "急ぐ",
+        "reading": "いそぐ",
+        "meaning": "to hurry",
+        "particle": null
+    },
+    {
+        "kanji": "返す",
+        "reading": "かえす",
+        "meaning": "to return (a thing)",
+        "particle": "person に thing を"
+    },
+    {
+        "kanji": "消す",
+        "reading": "けす",
+        "meaning": "to turn off; to erase",
+        "particle": "～を"
+    },
+    {
+        "kanji": "死ぬ",
+        "reading": "しぬ",
+        "meaning": "to die",
+        "particle": null
+    },
+    {
+        "kanji": "座る",
+        "reading": "すわる",
+        "meaning": "to sit down",
+        "particle": "seat に"
+    },
+    {
+        "kanji": "立つ",
+        "reading": "たつ",
+        "meaning": "to stand up",
+        "particle": null
+    },
+    {
+        "kanji": "たばこを吸う",
+        "reading": "たばこをすう",
+        "meaning": "to smoke",
+        "particle": null
+    },
+    {
+        "kanji": "使う",
+        "reading": "つかう",
+        "meaning": "to use",
+        "particle": "～を"
+    },
+    {
+        "kanji": "手伝う",
+        "reading": "てつだう",
+        "meaning": "to help",
+        "particle": "person/task を"
+    },
+    {
+        "kanji": "入る",
+        "reading": "はいる",
+        "meaning": "to enter",
+        "particle": "～に"
+    },
+    {
+        "kanji": "持つ",
+        "reading": "もつ",
+        "meaning": "to carry; to hold",
+        "particle": "～を"
+    },
+    {
+        "kanji": "休む",
+        "reading": "やすむ",
+        "meaning": "(1) to be absent (from...)",
+        "particle": "～を"
+    },
+    {
+        "kanji": "開ける",
+        "reading": "あける",
+        "meaning": "to open (something)",
+        "particle": "～を"
+    },
+    {
+        "kanji": "閉める",
+        "reading": "しめる",
+        "meaning": "to close (something)",
+        "particle": "～を"
+    },
+    {
+        "kanji": "教える",
+        "reading": "おしえる",
+        "meaning": "to teach; to instruct",
+        "particle": "person に thing を"
+    },
+    {
+        "kanji": "忘れる",
+        "reading": "わすれる",
+        "meaning": "to forget; to leave behind",
+        "particle": "～を"
+    },
+    {
+        "kanji": "降りる",
+        "reading": "おりる",
+        "meaning": "to get off",
+        "particle": "～を"
+    },
+    {
+        "kanji": "借りる",
+        "reading": "かりる",
+        "meaning": "to borrow",
+        "particle": "person に thing を"
+    },
+    {
+        "kanji": "シャワーを浴びる",
+        "reading": "シャワーをあびる",
+        "meaning": "to take a shower",
+        "particle": null
+    },
+    {
+        "kanji": "電話する",
+        "reading": "でんわする",
+        "meaning": "to call",
+        "particle": "～に"
+    },
+    {
+        "kanji": "連れてくる",
+        "reading": "つれてくる",
+        "meaning": "to bring (a person)",
+        "particle": "～を"
+    },
+    {
+        "kanji": "持ってくる",
+        "reading": "もってくる",
+        "meaning": "to bring (a thing)",
+        "particle": "～を"
+    },
+    {
+        "kanji": "東",
+        "reading": "ひがし",
+        "meaning": "east",
+        "particle": null
+    },
+    {
+        "kanji": "東口",
+        "reading": "ひがしぐち",
+        "meaning": "east exit",
+        "particle": null
+    },
+    {
+        "kanji": "関東",
+        "reading": "かんとう",
+        "meaning": "Kanto area",
+        "particle": null
+    },
+    {
+        "kanji": "東洋",
+        "reading": "とうよう",
+        "meaning": "the East",
+        "particle": null
+    },
+    {
+        "kanji": "西",
+        "reading": "にし",
+        "meaning": "west",
+        "particle": null
+    },
+    {
+        "kanji": "西口",
+        "reading": "にしぐち",
+        "meaning": "west exit",
+        "particle": null
+    },
+    {
+        "kanji": "北西",
+        "reading": "ほくせい",
+        "meaning": "northwest",
+        "particle": null
+    },
+    {
+        "kanji": "関西",
+        "reading": "かんさい",
+        "meaning": "Kansai area",
+        "particle": null
+    },
+    {
+        "kanji": "西洋",
+        "reading": "せいよう",
+        "meaning": "the West",
+        "particle": null
+    },
+    {
+        "kanji": "南",
+        "reading": "みなみ",
+        "meaning": "south",
+        "particle": null
+    },
+    {
+        "kanji": "南口",
+        "reading": "みなみぐち",
+        "meaning": "south exit",
+        "particle": null
+    },
+    {
+        "kanji": "南東",
+        "reading": "なんとう",
+        "meaning": "southeast",
+        "particle": null
+    },
+    {
+        "kanji": "南極",
+        "reading": "なんきょく",
+        "meaning": "Antarctica",
+        "particle": null
+    },
+    {
+        "kanji": "東南アジア",
+        "reading": "とうなんアジア",
+        "meaning": "Southeast Asia",
+        "particle": null
+    },
+    {
+        "kanji": "後で",
+        "reading": "あとで",
+        "meaning": "later on",
+        "particle": null
+    },
+    {
+        "kanji": "結構です",
+        "reading": "けっこうです",
+        "meaning": "That would be fine.; That wouldn't be necessary.",
+        "particle": null
+    },
+    {
+        "kanji": "本当ですか",
+        "reading": "ほんとうですか",
+        "meaning": "Really?",
+        "particle": null
+    },
+    {
+        "kanji": "北",
+        "reading": "きた",
+        "meaning": "north",
+        "particle": null
+    },
+    {
+        "kanji": "北口",
+        "reading": "きたぐち",
+        "meaning": "north exit",
+        "particle": null
+    },
+    {
+        "kanji": "東北",
+        "reading": "とうほく",
+        "meaning": "Tohoku area",
+        "particle": null
+    },
+    {
+        "kanji": "北極",
+        "reading": "ほっきょく",
+        "meaning": "North Pole",
+        "particle": null
+    },
+    {
+        "kanji": "北海道",
+        "reading": "ほっかいどう",
+        "meaning": "Hokkaido",
+        "particle": null
+    },
+    {
+        "kanji": "口",
+        "reading": "くち",
+        "meaning": "mouth",
+        "particle": null
+    },
+    {
+        "kanji": "人口",
+        "reading": "じんこう",
+        "meaning": "population",
+        "particle": null
+    },
+    {
+        "kanji": "入り口／入口",
+        "reading": "いりぐち",
+        "meaning": "entrance",
+        "particle": null
+    },
+    {
+        "kanji": "出る",
+        "reading": "でる",
+        "meaning": "to exit",
+        "particle": null
+    },
+    {
+        "kanji": "出口",
+        "reading": "でぐち",
+        "meaning": "exit",
+        "particle": null
+    },
+    {
+        "kanji": "出かける",
+        "reading": "でかける",
+        "meaning": "to go out",
+        "particle": null
+    },
+    {
+        "kanji": "出す",
+        "reading": "だす",
+        "meaning": "to take something out",
+        "particle": null
+    },
+    {
+        "kanji": "出席",
+        "reading": "しゅっせき",
+        "meaning": "attendance",
+        "particle": null
+    },
+    {
+        "kanji": "輸出",
+        "reading": "ゆしゅつ",
+        "meaning": "export",
+        "particle": null
+    },
+    {
+        "kanji": "道を聞く",
+        "reading": "みちをきく",
+        "meaning": "to ask for directions; to ask the way",
+        "particle": null
+    },
+    {
+        "kanji": "まっすぐ行く",
+        "reading": "まっすぐいく",
+        "meaning": "go straight",
+        "particle": null
+    },
+    {
+        "kanji": "左に曲がる",
+        "reading": "ひだりにまがる",
+        "meaning": "turn left",
+        "particle": null
+    },
+    {
+        "kanji": "右に曲がる",
+        "reading": "みぎにまがる",
+        "meaning": "turn right",
+        "particle": null
+    },
+    {
+        "kanji": "道を渡る",
+        "reading": "みちをわたる",
+        "meaning": "cross the street",
+        "particle": null
+    },
+    {
+        "kanji": "二つ目の角を左に曲がる",
+        "reading": "ふたつめのかどをひだりにまがる",
+        "meaning": "turn left at the second corner",
+        "particle": null
+    },
+    {
+        "kanji": "一つ目の信号を右に曲がる",
+        "reading": "ひとつめのしんごうをみぎにまがる",
+        "meaning": "turn right at the first traffic light",
+        "particle": null
+    },
+    {
+        "kanji": "道の左側",
+        "reading": "みちのひだりがわ",
+        "meaning": "left side of the street",
+        "particle": null
+    },
+    {
+        "kanji": "道の右側",
+        "reading": "みちのみぎがわ",
+        "meaning": "right side of the street",
+        "particle": null
+    },
+    {
+        "kanji": "北",
+        "reading": "きた",
+        "meaning": "north",
+        "particle": null
+    },
+    {
+        "kanji": "東",
+        "reading": "ひがし",
+        "meaning": "east",
+        "particle": null
+    },
+    {
+        "kanji": "南",
+        "reading": "みなみ",
+        "meaning": "south",
+        "particle": null
+    },
+    {
+        "kanji": "西",
+        "reading": "にし",
+        "meaning": "west",
+        "particle": null
+    },
+    {
+        "kanji": "右",
+        "reading": "みぎ",
+        "meaning": "right",
+        "particle": null
+    },
+    {
+        "kanji": "右折",
+        "reading": "うせつ",
+        "meaning": "right turn",
+        "particle": null
+    },
+    {
+        "kanji": "左右",
+        "reading": "さゆう",
+        "meaning": "right and left",
+        "particle": null
+    },
+    {
+        "kanji": "右手",
+        "reading": "みぎて",
+        "meaning": "right hand",
+        "particle": null
+    },
+    {
+        "kanji": "右側",
+        "reading": "みぎがわ",
+        "meaning": "right side",
+        "particle": null
+    },
+    {
+        "kanji": "左",
+        "reading": "ひだり",
+        "meaning": "left",
+        "particle": null
+    },
+    {
+        "kanji": "左折",
+        "reading": "させつ",
+        "meaning": "left turn",
+        "particle": null
+    },
+    {
+        "kanji": "左手",
+        "reading": "ひだりて",
+        "meaning": "left hand",
+        "particle": null
+    },
+    {
+        "kanji": "左利き",
+        "reading": "ひだりきき",
+        "meaning": "left-handed",
+        "particle": null
+    },
+    {
+        "kanji": "先に",
+        "reading": "さきに",
+        "meaning": "ahead",
+        "particle": null
+    },
+    {
+        "kanji": "一生に一度",
+        "reading": "いっしょうにいちど",
+        "meaning": "once in a life time",
+        "particle": null
+    },
+    {
+        "kanji": "学部",
+        "reading": "がくぶ",
+        "meaning": "department; faculty",
+        "particle": null
+    },
+    {
+        "kanji": "海外",
+        "reading": "かいがい",
+        "meaning": "overseas",
+        "particle": null
+    },
+    {
+        "kanji": "国会",
+        "reading": "こっかい",
+        "meaning": "the Diet",
+        "particle": null
+    },
+    {
+        "kanji": "姉",
+        "reading": "あね",
+        "meaning": "(my) older sister",
+        "particle": null
+    },
+    {
+        "kanji": "弟",
+        "reading": "おとうと",
+        "meaning": "younger brother",
+        "particle": null
+    },
+    {
+        "kanji": "妹",
+        "reading": "いもうと",
+        "meaning": "younger sister",
+        "particle": null
+    },
+    {
+        "kanji": "髪",
+        "reading": "かみ",
+        "meaning": "hair",
+        "particle": null
+    },
+    {
+        "kanji": "眼鏡",
+        "reading": "めがね",
+        "meaning": "glasses",
+        "particle": null
+    },
+    {
+        "kanji": "短い",
+        "reading": "みじかい",
+        "meaning": "short (length)",
+        "particle": null
+    },
+    {
+        "kanji": "速い",
+        "reading": "はやい",
+        "meaning": "fast",
+        "particle": null
+    },
+    {
+        "kanji": "便利",
+        "reading": "べんり(な)",
+        "meaning": "convenient",
+        "particle": null
+    },
+    {
+        "kanji": "働く",
+        "reading": "はたらく",
+        "meaning": "to work",
+        "particle": null
+    },
+    {
+        "kanji": "太る",
+        "reading": "ふとる",
+        "meaning": "to gain weight",
+        "particle": null
+    },
+    {
+        "kanji": "着る",
+        "reading": "きる",
+        "meaning": "to put on (clothes above your waist)",
+        "particle": "～を"
+    },
+    {
+        "kanji": "京都",
+        "reading": "きょうと",
+        "meaning": "Kyoto",
+        "particle": null
+    },
+    {
+        "kanji": "上京する",
+        "reading": "じょうきょうする",
+        "meaning": "to go to the capital",
+        "particle": null
+    },
+    {
+        "kanji": "小学校",
+        "reading": "しょうがっこう",
+        "meaning": "elementary school",
+        "particle": null
+    },
+    {
+        "kanji": "別に",
+        "reading": "べつに",
+        "meaning": "nothing in particular",
+        "particle": null
+    },
+    {
+        "kanji": "会議",
+        "reading": "かいぎ",
+        "meaning": "meeting",
+        "particle": null
+    },
+    {
+        "kanji": "教会",
+        "reading": "きょうかい",
+        "meaning": "church",
+        "particle": null
+    },
+    {
+        "kanji": "神社",
+        "reading": "じんじゃ",
+        "meaning": "shrine",
+        "particle": null
+    },
+    {
+        "kanji": "社会",
+        "reading": "しゃかい",
+        "meaning": "society",
+        "particle": null
+    },
+    {
+        "kanji": "入社",
+        "reading": "にゅうしゃ",
+        "meaning": "entry to a company",
+        "particle": null
+    },
+    {
+        "kanji": "父母",
+        "reading": "ふぼ",
+        "meaning": "father and mother",
+        "particle": null
+    },
+    {
+        "kanji": "祖父",
+        "reading": "そふ",
+        "meaning": "grandfather",
+        "particle": null
+    },
+    {
+        "kanji": "母語",
+        "reading": "ぼご",
+        "meaning": "mother tongue",
+        "particle": null
+    },
+    {
+        "kanji": "祖母",
+        "reading": "そぼ",
+        "meaning": "grandmother",
+        "particle": null
+    },
+    {
+        "kanji": "最高",
+        "reading": "さいこう",
+        "meaning": "the best",
+        "particle": null
+    },
+    {
+        "kanji": "眉毛",
+        "reading": "まゆげ",
+        "meaning": "eyebrows",
+        "particle": null
+    },
+    {
+        "kanji": "耳",
+        "reading": "みみ",
+        "meaning": "ear",
+        "particle": null
+    },
+    {
+        "kanji": "首",
+        "reading": "くび",
+        "meaning": "neck",
+        "particle": null
+    },
+    {
+        "kanji": "歯",
+        "reading": "は",
+        "meaning": "tooth",
+        "particle": null
+    },
+    {
+        "kanji": "指",
+        "reading": "ゆび",
+        "meaning": "finger",
+        "particle": null
+    },
+    {
+        "kanji": "鼻",
+        "reading": "はな",
+        "meaning": "nose",
+        "particle": null
+    },
+    {
+        "kanji": "顔",
+        "reading": "かお",
+        "meaning": "face",
+        "particle": null
+    },
+    {
+        "kanji": "頭",
+        "reading": "あたま",
+        "meaning": "head",
+        "particle": null
+    },
+    {
+        "kanji": "肩",
+        "reading": "かた",
+        "meaning": "shoulder",
+        "particle": null
+    },
+    {
+        "kanji": "胸",
+        "reading": "むね",
+        "meaning": "chest",
+        "particle": null
+    },
+    {
+        "kanji": "背中",
+        "reading": "せなか",
+        "meaning": "back (of body)",
+        "particle": null
+    },
+    {
+        "kanji": "足",
+        "reading": "あし",
+        "meaning": "foot",
+        "particle": null
+    },
+    {
+        "kanji": "毎晩",
+        "reading": "まいばん",
+        "meaning": "every night",
+        "particle": null
+    },
+    {
+        "kanji": "敬語",
+        "reading": "けいご",
+        "meaning": "honorific expressions",
+        "particle": null
+    },
+    {
+        "kanji": "文学",
+        "reading": "ぶんがく",
+        "meaning": "literature",
+        "particle": null
+    },
+    {
+        "kanji": "作文",
+        "reading": "さくぶん",
+        "meaning": "composition",
+        "particle": null
+    },
+    {
+        "kanji": "文字",
+        "reading": "もじ",
+        "meaning": "letter; character",
+        "particle": null
+    },
+    {
+        "kanji": "文化",
+        "reading": "ぶんか",
+        "meaning": "culture",
+        "particle": null
+    },
+    {
+        "kanji": "文法",
+        "reading": "ぶんぽう",
+        "meaning": "grammar",
+        "particle": null
+    },
+    {
+        "kanji": "帰国",
+        "reading": "きこく",
+        "meaning": "returning to one's country",
+        "particle": null
+    },
+    {
+        "kanji": "帰宅",
+        "reading": "きたく",
+        "meaning": "returning home",
+        "particle": null
+    },
+    {
+        "kanji": "入口",
+        "reading": "いりぐち",
+        "meaning": "entrance",
+        "particle": null
+    },
+    {
+        "kanji": "輸入",
+        "reading": "ゆにゅう",
+        "meaning": "import",
+        "particle": null
+    },
+    {
+        "kanji": "晴れ",
+        "reading": "はれ",
+        "meaning": "sunny weather",
+        "particle": null
+    },
+    {
+        "kanji": "曇り",
+        "reading": "くもり",
+        "meaning": "cloudy weather",
+        "particle": null
+    },
+    {
+        "kanji": "雪",
+        "reading": "ゆき",
+        "meaning": "snow",
+        "particle": null
+    },
+    {
+        "kanji": "天気予報",
+        "reading": "てんきよほう",
+        "meaning": "weather forecast",
+        "particle": null
+    },
+    {
+        "kanji": "気温",
+        "reading": "きおん",
+        "meaning": "temperature (weather)",
+        "particle": null
+    },
+    {
+        "kanji": "夏",
+        "reading": "なつ",
+        "meaning": "summer",
+        "particle": null
+    },
+    {
+        "kanji": "お風呂",
+        "reading": "おふろ",
+        "meaning": "bath",
+        "particle": null
+    }
+]
