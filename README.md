@@ -2,6 +2,8 @@
 
 This project helps Japanese language learners practice by generating natural sentences and short stories using vocabulary from their Anki flashcards. It uses the Claude 3 Haiku model to create contextually appropriate content.
 
+![sakubunn](https://github.com/user-attachments/assets/77a84d3a-0053-4b79-8cb8-354645a1bccf)
+
 ## Prerequisites
 
 - Python 3.x
